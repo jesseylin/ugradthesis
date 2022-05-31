@@ -1,0 +1,17 @@
+data
+figures
+resources
+*.ipynb_checkpoints
+.DS_Store
+scripts/1dNNMC_K=2.npz
+scripts/1dNNMC_K=3.npz
+scripts/cf_K=[1.0, 0.1, 0.0].pickle
+scripts/cf_K=1.2.pickle
+scripts/cf_K=1.pickle
+scripts/cf_mc_K=[1.0, 0.1, 0.0]
+scripts/cf_mc_K=1
+scripts/cf_mc_K=1.2
+scripts/epoch=53-step=539.ckpt
+scripts/epoch=55-step=559.ckpt
+scripts/cf_mc_K=[1.0, 0.1, 0.0]
+scripts/cf_K=[1.0, 0.1, 0.0].pickle
