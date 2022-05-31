@@ -2,6 +2,7 @@ data
 figures
 resources
 *.ipynb_checkpoints
+*__py_cache__
 .DS_Store
 scripts/1dNNMC_K=2.npz
 scripts/1dNNMC_K=3.npz
